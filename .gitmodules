@@ -1,0 +1,6 @@
+[submodule "school"]
+	path = school
+	url = https://github.com/SollyBunny/repo-index-school
+[submodule "private"]
+	path = private
+	url = https://github.com/SollyBunny/repo-index-private
